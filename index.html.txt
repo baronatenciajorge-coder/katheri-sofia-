@@ -1,0 +1,1027 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Catálogo Completo Premium - Katherin Sofia</title>
+    <style>
+        *, *::before, *::after { box-sizing: border-box; }
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            color: #332d27;
+            background-color: #faf6f0;
+        }
+        .header {
+            text-align: center;
+            padding: 40px 20px;
+            border-bottom: 1px solid #e6ded4;
+        }
+        .logo {
+            font-family: 'Georgia', serif;
+            font-size: 36px;
+            font-weight: bold;
+            color: #c9a054;
+            letter-spacing: 6px;
+            margin: 0;
+        }
+        .sublogo {
+            font-size: 11px;
+            letter-spacing: 8px;
+            color: #8c765c;
+            text-transform: uppercase;
+            margin-top: 5px;
+        }
+        .title {
+            font-size: 16px;
+            color: #8c765c;
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            margin-top: 15px;
+        }
+        .whatsapp-banner {
+            background-color: #5c4a37;
+            color: #faf6f0;
+            text-align: center;
+            padding: 15px;
+            font-size: 14px;
+            font-weight: bold;
+            letter-spacing: 1px;
+        }
+        .whatsapp-banner a {
+            color: #c9a054;
+            text-decoration: none;
+            border-bottom: 1px solid #c9a054;
+        }
+        .gallery-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 25px;
+            padding: 40px 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .product-card {
+            background: #ffffff;
+            border: 1px solid #e6ded4;
+            border-radius: 4px;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.02);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .product-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(92, 74, 55, 0.1);
+        }
+        .image-container {
+            width: 100%;
+            height: 300px;
+            background-color: #f7f2ea;
+            position: relative;
+            overflow: hidden;
+        }
+        .image-container img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.3s;
+        }
+        .product-card:hover .image-container img {
+            transform: scale(1.05);
+        }
+        .info-panel {
+            padding: 15px;
+            display: flex;
+            flex-direction: column;
+            flex-grow: 1;
+        }
+        .model-number {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #c9a054;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .product-title {
+            font-family: 'Georgia', serif;
+            font-size: 16px;
+            font-weight: bold;
+            color: #5c4a37;
+            margin: 0 0 10px 0;
+        }
+        .details {
+            font-size: 12px;
+            color: #8c765c;
+            margin-bottom: 15px;
+            line-height: 1.4;
+        }
+        .size-badge {
+            display: inline-block;
+            background-color: #f0e6da;
+            color: #5c4a37;
+            font-size: 11px;
+            font-weight: bold;
+            padding: 4px 8px;
+            border-radius: 3px;
+            margin-bottom: 15px;
+            align-self: flex-start;
+        }
+        .order-btn {
+            display: block;
+            background-color: #5c4a37;
+            color: #faf6f0;
+            text-decoration: none;
+            text-align: center;
+            padding: 10px;
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            font-weight: bold;
+            border-radius: 2px;
+            margin-top: auto;
+            transition: background-color 0.2s;
+        }
+        .order-btn:hover {
+            background-color: #c9a054;
+        }
+        .footer {
+            background-color: #f0e6da;
+            text-align: center;
+            padding: 40px 20px;
+            margin-top: 50px;
+            border-top: 2px solid #c9a054;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="whatsapp-banner">
+        📞 Pedidos y Consultas al WhatsApp: <a href="https://wa.me/573203904825">+57 3203904825</a> • Envíos a todo el país
+    </div>
+
+    <div class="header">
+        <div class="logo">KS</div>
+        <div class="sublogo">Katherin Sofia</div>
+        <div class="title">Catálogo Completo de Sandalias (35 a 40)</div>
+    </div>
+
+    <div class="gallery-grid">
+
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/rRG9pGKf" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/rRG9pGKf/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+1';" alt="Modelo 1">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #1</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%231%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/rRG9pGKf" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/dwCn5LX3" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/dwCn5LX3/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+2';" alt="Modelo 2">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #2</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%232%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/dwCn5LX3" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/GQXGbDXX" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/GQXGbDXX/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+3';" alt="Modelo 3">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #3</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%233%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/GQXGbDXX" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/0V29sttZ" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/0V29sttZ/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+4';" alt="Modelo 4">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #4</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%234%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/0V29sttZ" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/Rk16h465" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/Rk16h465/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+5';" alt="Modelo 5">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #5</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%235%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/Rk16h465" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/bg8RFyxb" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/bg8RFyxb/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+6';" alt="Modelo 6">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #6</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%236%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/bg8RFyxb" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/b5KxZz2h" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/b5KxZz2h/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+7';" alt="Modelo 7">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #7</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%237%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/b5KxZz2h" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/S7Zr1KtR" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/S7Zr1KtR/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+8';" alt="Modelo 8">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #8</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%238%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/S7Zr1KtR" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/TMV00DZ1" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/TMV00DZ1/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+9';" alt="Modelo 9">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #9</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%239%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/TMV00DZ1" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/NnmZxhqq" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/NnmZxhqq/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+10';" alt="Modelo 10">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #10</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2310%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/NnmZxhqq" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/cSrd6bPQ" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/cSrd6bPQ/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+11';" alt="Modelo 11">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #11</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2311%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/cSrd6bPQ" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/bR22VpYs" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/bR22VpYs/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+12';" alt="Modelo 12">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #12</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2312%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/bR22VpYs" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/39WcS7JZ" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/39WcS7JZ/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+13';" alt="Modelo 13">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #13</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2313%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/39WcS7JZ" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/ynQhJStW" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/ynQhJStW/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+14';" alt="Modelo 14">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #14</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2314%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/ynQhJStW" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/V0LLX4gy" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/V0LLX4gy/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+15';" alt="Modelo 15">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #15</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2315%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/V0LLX4gy" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/xqhKnjrs" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/xqhKnjrs/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+16';" alt="Modelo 16">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #16</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2316%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/xqhKnjrs" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/23vXHPmm" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/23vXHPmm/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+17';" alt="Modelo 17">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #17</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2317%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/23vXHPmm" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/0VdFht00" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/0VdFht00/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+18';" alt="Modelo 18">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #18</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2318%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/0VdFht00" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/mrXZr77W" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/mrXZr77W/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+19';" alt="Modelo 19">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #19</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2319%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/mrXZr77W" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/HTsHp9jj" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/HTsHp9jj/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+20';" alt="Modelo 20">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #20</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2320%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/HTsHp9jj" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/NgZ1RPTT" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/NgZ1RPTT/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+21';" alt="Modelo 21">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #21</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2321%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/NgZ1RPTT" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/xKsqtKBS" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/xKsqtKBS/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+22';" alt="Modelo 22">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #22</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2322%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/xKsqtKBS" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/YBnSZ61n" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/YBnSZ61n/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+23';" alt="Modelo 23">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #23</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2323%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/YBnSZ61n" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/zWFQ5Ydz" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/zWFQ5Ydz/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+24';" alt="Modelo 24">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #24</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2324%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/zWFQ5Ydz" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/DD7pz2wX" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/DD7pz2wX/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+25';" alt="Modelo 25">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #25</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2325%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/DD7pz2wX" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/67h006N1" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/67h006N1/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+26';" alt="Modelo 26">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #26</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2326%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/67h006N1" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/ymb2n4r9" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/ymb2n4r9/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+27';" alt="Modelo 27">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #27</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2327%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/ymb2n4r9" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/wDWjy3H" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/wDWjy3H/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+28';" alt="Modelo 28">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #28</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2328%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/wDWjy3H" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/spcykkvP" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/spcykkvP/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+29';" alt="Modelo 29">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #29</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2329%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/spcykkvP" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/FLZMFPYk" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/FLZMFPYk/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+30';" alt="Modelo 30">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #30</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2330%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/FLZMFPYk" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/zhsjJx0X" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/zhsjJx0X/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+31';" alt="Modelo 31">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #31</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2331%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/zhsjJx0X" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/TM3k6HPP" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/TM3k6HPP/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+32';" alt="Modelo 32">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #32</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2332%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/TM3k6HPP" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/BVSLRQNY" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/BVSLRQNY/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+33';" alt="Modelo 33">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #33</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2333%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/BVSLRQNY" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/N6NYWDj2" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/N6NYWDj2/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+34';" alt="Modelo 34">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #34</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2334%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/N6NYWDj2" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/yFwRHSSv" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/yFwRHSSv/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+35';" alt="Modelo 35">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #35</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2335%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/yFwRHSSv" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/DHkfGHnv" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/DHkfGHnv/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+36';" alt="Modelo 36">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #36</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2336%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/DHkfGHnv" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/VpzZGTzN" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/VpzZGTzN/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+37';" alt="Modelo 37">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #37</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2337%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/VpzZGTzN" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/Kch81MKR" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/Kch81MKR/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+38';" alt="Modelo 38">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #38</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2338%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/Kch81MKR" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/QvMcVbq7" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/QvMcVbq7/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+39';" alt="Modelo 39">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #39</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2339%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/QvMcVbq7" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/gbrJJd8P" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/gbrJJd8P/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+40';" alt="Modelo 40">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #40</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2340%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/gbrJJd8P" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/V01gLkB1" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/V01gLkB1/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+41';" alt="Modelo 41">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #41</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2341%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/V01gLkB1" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/4Z1zfNgD" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/4Z1zfNgD/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+42';" alt="Modelo 42">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #42</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2342%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/4Z1zfNgD" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/Jw20fPBS" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/Jw20fPBS/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+43';" alt="Modelo 43">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #43</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2343%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/Jw20fPBS" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/GQj9s8Yr" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/GQj9s8Yr/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+44';" alt="Modelo 44">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #44</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2344%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/GQj9s8Yr" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/wNYr4v4f" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/wNYr4v4f/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+45';" alt="Modelo 45">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #45</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2345%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/wNYr4v4f" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/Y4CxMd48" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/Y4CxMd48/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+46';" alt="Modelo 46">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #46</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2346%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/Y4CxMd48" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/S4BWDRYb" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/S4BWDRYb/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+47';" alt="Modelo 47">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #47</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2347%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/S4BWDRYb" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/dsGPQWqH" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/dsGPQWqH/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+48';" alt="Modelo 48">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #48</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2348%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/dsGPQWqH" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/VhxgMsj" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/VhxgMsj/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+49';" alt="Modelo 49">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #49</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2349%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/VhxgMsj" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/1tZ4TK8k" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/1tZ4TK8k/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+50';" alt="Modelo 50">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #50</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2350%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/1tZ4TK8k" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/jZy1nvSK" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/jZy1nvSK/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+51';" alt="Modelo 51">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #51</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2351%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/jZy1nvSK" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/3y1FGGgb" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/3y1FGGgb/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+52';" alt="Modelo 52">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #52</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2352%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/3y1FGGgb" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/hJQNLYJ2" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/hJQNLYJ2/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+53';" alt="Modelo 53">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #53</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2353%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/hJQNLYJ2" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/PGbsz2fc" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/PGbsz2fc/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+54';" alt="Modelo 54">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #54</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2354%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/PGbsz2fc" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/mVV87GRg" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/mVV87GRg/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+55';" alt="Modelo 55">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #55</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2355%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/mVV87GRg" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+        <div class="product-card">
+            <div class="image-container">
+                <a href="https://ibb.co/svxTLQyq" target="_blank" title="Ver imagen original completa">
+                    <img src="https://i.ibb.co/svxTLQyq/image.jpg" onerror="this.onerror=null; this.src='https://placehold.co/300x300/f7f2ea/5c4a37?text=Ver+Modelo+56';" alt="Modelo 56">
+                </a>
+            </div>
+            <div class="info-panel">
+                <div class="model-number">Modelo #56</div>
+                <h3 class="product-title">Sandalia Exclusiva</h3>
+                <div class="details">Diseño de alta costura con acabados finos y confort superior para el día a día.</div>
+                <div class="size-badge">Tallas: 35 a 40</div>
+                <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20me%20interesa%20el%20modelo%20%2356%20del%20cat%C3%A1logo%20%28talla%2035-40%29.%20%C2%BFEst%C3%A1%20disponible%3F%20Link%3A%20https%3A//ibb.co/svxTLQyq" class="order-btn" target="_blank">Pedir por WhatsApp</a>
+            </div>
+        </div>
+    
+    </div>
+
+    <div class="footer">
+        <p style="font-family: 'Georgia', serif; font-size: 18px; color: #5c4a37; margin-bottom: 10px;">¿No carga alguna imagen?</p>
+        <p style="font-size: 13px; color: #8c765c; max-width: 600px; margin: 0 auto 20px auto;">
+            Haz clic directamente sobre la foto o el recuadro para verla a tamaño completo en alta definición directamente en el servidor.
+        </p>
+        <a href="https://wa.me/573203904825?text=Hola%20Katherin%20Sofia%2C%20quiero%20más%20información." class="order-btn" style="display: inline-block; padding: 12px 30px;">Contacto Directo</a>
+    </div>
+
+</body>
+</html>
+catalogo_completo_ks.html
+Mostrando catalogo_completo_ks.html.
